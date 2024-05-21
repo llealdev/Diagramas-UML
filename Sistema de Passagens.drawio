@@ -1,9 +1,36 @@
-<mxfile host="app.diagrams.net" modified="2024-05-21T00:42:52.715Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" version="24.4.4" etag="OkJIAfcJxUnp2o_kPE73" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-21T01:08:36.659Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="LxMcMjyjpR55JEzbAI2P" version="24.4.4" type="github">
   <diagram name="Página-1" id="RvVabkoj3_wjCJ5sBmXR">
-    <mxGraphModel>
+    <mxGraphModel dx="2261" dy="1949" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="DYaeCYadNBBWUJuQzcgG-5" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="110" width="130" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="DYaeCYadNBBWUJuQzcgG-7" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-50" width="860" height="880" as="geometry" />
+        </mxCell>
+        <mxCell id="DYaeCYadNBBWUJuQzcgG-8" value="&lt;p style=&quot;line-height: 270%; font-size: 18px;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;&lt;i style=&quot;font-size: 18px;&quot;&gt;Sistemas de Passagens&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="-10" width="210" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="DYaeCYadNBBWUJuQzcgG-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="100" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DYaeCYadNBBWUJuQzcgG-17" value="Checar passagem" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry y="100" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DYaeCYadNBBWUJuQzcgG-18" value="Reservar passagem" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="237" y="240" width="176.25" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DYaeCYadNBBWUJuQzcgG-20" value="Informações dos clientes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="390" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DYaeCYadNBBWUJuQzcgG-21" value="Pagamento" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="545" width="173" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DYaeCYadNBBWUJuQzcgG-22" value="Cancelar passagem" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="110" width="180" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
