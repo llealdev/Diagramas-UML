@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-30T01:13:01.968Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="PVu4CEzC-te5dFToujX5" version="24.4.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-05-30T23:39:45.944Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="nnef1Anfg_NpA22Icrwl" version="24.4.7" type="github" pages="3">
   <diagram name="Página-1" id="RvVabkoj3_wjCJ5sBmXR">
     <mxGraphModel dx="2876" dy="2283" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -187,6 +187,180 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="580" y="300" as="sourcePoint" />
             <mxPoint x="740" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="zQnWBowbL4_LyjM4Lmni" name="Página-3">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="raQxZAkN1bYKK2x1g5V5-29" value="Cliente" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1100" width="150" height="1418" as="geometry" />
+        </mxCell>
+        <mxCell id="raQxZAkN1bYKK2x1g5V5-30" value="Sistema de Venda de Passagens" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="378" y="1100" width="244" height="1418" as="geometry" />
+        </mxCell>
+        <mxCell id="raQxZAkN1bYKK2x1g5V5-31" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30" vertex="1" parent="1">
+          <mxGeometry x="85" y="1227" width="425" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="raQxZAkN1bYKK2x1g5V5-32" value="Escolha do meio de transporte" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontStyle=1" vertex="1" parent="raQxZAkN1bYKK2x1g5V5-31">
+          <mxGeometry x="30" width="395" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="raQxZAkN1bYKK2x1g5V5-33" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30" vertex="1" parent="1">
+          <mxGeometry x="85" y="1387" width="425" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="raQxZAkN1bYKK2x1g5V5-34" value="Escolha do horário" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontStyle=1" vertex="1" parent="raQxZAkN1bYKK2x1g5V5-33">
+          <mxGeometry x="30" width="395" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="raQxZAkN1bYKK2x1g5V5-35" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30" vertex="1" parent="1">
+          <mxGeometry x="85" y="1547" width="425" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="raQxZAkN1bYKK2x1g5V5-36" value="Consulta de valor" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontStyle=1" vertex="1" parent="raQxZAkN1bYKK2x1g5V5-35">
+          <mxGeometry x="30" width="395" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="raQxZAkN1bYKK2x1g5V5-37" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30" vertex="1" parent="1">
+          <mxGeometry x="85" y="1811" width="425" height="248" as="geometry" />
+        </mxCell>
+        <mxCell id="raQxZAkN1bYKK2x1g5V5-38" value="Pagamento aceito" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontStyle=1" vertex="1" parent="raQxZAkN1bYKK2x1g5V5-37">
+          <mxGeometry x="30" width="395" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="raQxZAkN1bYKK2x1g5V5-39" value="Pagamento recusado" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;fontStyle=1" vertex="1" parent="raQxZAkN1bYKK2x1g5V5-37">
+          <mxGeometry y="155" width="425" height="4" as="geometry" />
+        </mxCell>
+        <mxCell id="raQxZAkN1bYKK2x1g5V5-40" value="Iniciar compra" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="raQxZAkN1bYKK2x1g5V5-29" target="raQxZAkN1bYKK2x1g5V5-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="308" y="1207" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="raQxZAkN1bYKK2x1g5V5-41" value="Apresentar opções de transporte (ônibus, trem)" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="raQxZAkN1bYKK2x1g5V5-30" target="raQxZAkN1bYKK2x1g5V5-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="308" y="1305" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="raQxZAkN1bYKK2x1g5V5-42" value="Selecionar meio de transporte (ônibus/trem)" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="raQxZAkN1bYKK2x1g5V5-29" target="raQxZAkN1bYKK2x1g5V5-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="308" y="1357" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="raQxZAkN1bYKK2x1g5V5-43" value="Apresentar horários disponíveis" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="raQxZAkN1bYKK2x1g5V5-30" target="raQxZAkN1bYKK2x1g5V5-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="308" y="1465" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="raQxZAkN1bYKK2x1g5V5-44" value="Selecionar horário" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="raQxZAkN1bYKK2x1g5V5-29" target="raQxZAkN1bYKK2x1g5V5-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="308" y="1517" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="raQxZAkN1bYKK2x1g5V5-45" value="Apresentar valor da passagem" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="raQxZAkN1bYKK2x1g5V5-30" target="raQxZAkN1bYKK2x1g5V5-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="308" y="1625" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="raQxZAkN1bYKK2x1g5V5-46" value="Preencher informações pessoais" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="raQxZAkN1bYKK2x1g5V5-29" target="raQxZAkN1bYKK2x1g5V5-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="308" y="1687" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="raQxZAkN1bYKK2x1g5V5-47" value="Confirmar informações pessoais recebidas" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="raQxZAkN1bYKK2x1g5V5-30" target="raQxZAkN1bYKK2x1g5V5-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="308" y="1739" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="raQxZAkN1bYKK2x1g5V5-48" value="Realizar pagamento" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="raQxZAkN1bYKK2x1g5V5-29" target="raQxZAkN1bYKK2x1g5V5-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="308" y="1791" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="raQxZAkN1bYKK2x1g5V5-49" value="Confirmar pagamento" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="raQxZAkN1bYKK2x1g5V5-30" target="raQxZAkN1bYKK2x1g5V5-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="308" y="1889" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="raQxZAkN1bYKK2x1g5V5-50" value="Emitir passagem" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="raQxZAkN1bYKK2x1g5V5-30" target="raQxZAkN1bYKK2x1g5V5-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="308" y="1941" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="raQxZAkN1bYKK2x1g5V5-51" value="Informar pagamento recusado" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="raQxZAkN1bYKK2x1g5V5-30" target="raQxZAkN1bYKK2x1g5V5-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="308" y="2039" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="raQxZAkN1bYKK2x1g5V5-52" value="Reservar passagem" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="raQxZAkN1bYKK2x1g5V5-29" target="raQxZAkN1bYKK2x1g5V5-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="308" y="2101" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="raQxZAkN1bYKK2x1g5V5-53" value="Confirmar reserva da passagem" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="raQxZAkN1bYKK2x1g5V5-30" target="raQxZAkN1bYKK2x1g5V5-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="308" y="2153" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="raQxZAkN1bYKK2x1g5V5-54" value="Cancelar passagem" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="raQxZAkN1bYKK2x1g5V5-29" target="raQxZAkN1bYKK2x1g5V5-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="308" y="2205" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="raQxZAkN1bYKK2x1g5V5-55" value="Confirmar cancelamento da passagem" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="raQxZAkN1bYKK2x1g5V5-30" target="raQxZAkN1bYKK2x1g5V5-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="308" y="2257" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="raQxZAkN1bYKK2x1g5V5-56" value="Reembolsar dinheiro" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="raQxZAkN1bYKK2x1g5V5-30" target="raQxZAkN1bYKK2x1g5V5-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="308" y="2309" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="raQxZAkN1bYKK2x1g5V5-57" value="Finalizar compra" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="raQxZAkN1bYKK2x1g5V5-29" target="raQxZAkN1bYKK2x1g5V5-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="308" y="2361" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="raQxZAkN1bYKK2x1g5V5-58" value="Agradecer a compra" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="raQxZAkN1bYKK2x1g5V5-30" target="raQxZAkN1bYKK2x1g5V5-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="308" y="2413" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
